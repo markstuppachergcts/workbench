@@ -4,4 +4,5 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zprg_wk2.
-cl_demo_output=>write( 'Hello World' ).
+cl_demo_output=>write( 'Hello World!' ).
+cl_demo_output=>write( `I'm the new feature :)` ).
